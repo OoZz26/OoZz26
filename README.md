@@ -37,8 +37,8 @@ I am passionate about bridging the gap between technical theory and practical, m
 
 ---
 
-### 🔹 [Arabic-to-Pinyin: Quranic Phonetic Translation](#)  
-*(Replace # with your GitHub repo link)*
+### 🔹 [Arabic-to-Pinyin: Quranic Phonetic Translation](https://github.com/OoZz26/Arabic-to-Pinyin-Quranic-Phonetic-Translation)  
+
 
 - Developed a hybrid cross-lingual transcription system using **Wav2Vec2-XLSR-53** and a custom rule-based G2P engine.
 - Built a **Best-of-N selection pipeline** using WavLM phonetic embeddings + cosine similarity.
@@ -47,8 +47,7 @@ I am passionate about bridging the gap between technical theory and practical, m
 
 ---
 
-### 🔹 [Spatio-Temporal Forecasting on Telecom Italia Big Data](#)  
-*(Replace # with your GitHub repo link)*
+### 🔹 [Spatio-Temporal Forecasting on Telecom Italia Big Data](https://github.com/OoZz26/Spatio-Temporal-Forecasting-with-Deep-Learning)
 
 - Implemented and simulated the **D-STN model** on Telecom Italia Big Data (1000+ time steps, spatial cells).
 - Compared D-STN with **ARIMA** and **Prophet**.
