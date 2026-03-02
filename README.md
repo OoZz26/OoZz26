@@ -5,15 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <a href="https://www.linkedin.com/in/omar-awad0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="omar.awad.a19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -22,11 +19,41 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">I'm Omar Awad</h2>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">AI/ML Engineer<br><br>B.S. Communications & Information Engineering @ Zewail City (Class of 2026)<br><br>I specialize in developing high-stakes AI solutions, with a deep focus on Arabic NLP, Speech Recognition, and Statistical Inference. I am passionate about bridging the gap between technical theory and practical, multi-modal systems that solve real-world accessibility and educational challenges</p>
+
+###
+
+<h3 align="left">🚀 Key Projects</h3>
+
+###
+
+<h4 align="left">Rafeeq: Smart Wheelchair AI Kit</h4>
+
+###
+
+<p align="left">-Developed a robust Speech-to-Text interface optimized for Arabic dialect commands (e.g., "تحرك للأمام") to allow hands-free navigation for electric wheelchairs.<br><br>-Integrated Vosk/Kaldi for offline, low-latency speech recognition suitable for edge computing on robotic hardware.<br><br>-Implemented real-time command parsing using Python and Regex to map natural language to specific motor controller movements.</p>
+
+###
+
+<h4 align="left">Arabic-to-Pinyin: Quranic Phonetic Translation</h4>
+
+###
+
+<br clear="both">
+
+<p align="left">developed a hybrid cross-lingual transcription system utilizing Wav2Vec2-XLSR-53 and a custom Rule-Based G2P engine to convert Quranic Arabic into Mandarin Pinyin.<br><br>Implemented a "Best-of-N" selection pipeline using WavLM phonetic embeddings and Cosine Similarity, achieving 72% acoustic fidelity against professional reference recitations.<br><br>Engineered a phonotactic repair algorithm to resolve Arabic-Mandarin incompatibilities (e.g., illegal codas) via vowel epenthesis, successfully handling complex Tajweed rules like Ghunna and Qalqalah.</p>
+
+###
+
+<h3 align="left">Spatio-Temporal Forecasting with DL on Telecom Italia <br>Big Data</h3>
+
+###
+
+<p align="left">Implemented and simulated the D-STN model using the Telecom Italia Big Data dataset (1000+ time <br>steps, spatial cells). <br><br>Compared D-STN with ARIMA and Prophet models.<br><br>Achieved RMSEs of 29.55 (ARIMA) and 16.87 (Prophet), showing a 50% error reduction over D-STN. <br><br> Performed multi-step forecasting and visualized Prophet's superior temporal learning.</p>
 
 ###
 
@@ -34,32 +61,37 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+<p align="left">anguages: Python, C++, SQL, Bash<br><br>Speech & NLP: Arabic Phonetic Modeling, Vosk, Kaldi, Wav2Vec2<br><br>ML/DL Frameworks: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels<br><br>Tools: Apache Spark, Delta Lake, Power BI, Docker, Linux, LaTeX, Git</p>
+
+###
+
+<h3 align="left">🏆 Achievements</h3>
+
+###
+
+<p align="left">Golden Star Award (3 Semesters): Received for consistently maintaining a GPA above 3.5.<br><br>Partial Scholarship: Awarded a near full scholarship covering 5 years of undergraduate study at University of Science and Technology, Zewail City</p>
+
+###
+
+<h3 align="left">💡 Open To</h3>
+
+###
+
+<p align="left">AI Research<br>Applied ML / Speech Recognition Roles<br>Data Science & Analytics</p>
+
+###
+
+<h3 align="left">📫 Connect with Me</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/omar-awad0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="omar.awad.a19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
 
 ###
