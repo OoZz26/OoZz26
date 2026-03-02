@@ -66,7 +66,7 @@ I am passionate about bridging the gap between technical theory and practical, m
 
 **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels  
 
-**Tools:** Apache Spark, Delta Lake, Power BI, Docker, Linux, LaTeX, Git  
+**Tools:**  Power BI, Docker, Linux, LaTeX, Git  
 
 ---
 
