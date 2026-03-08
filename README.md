@@ -22,7 +22,7 @@
 **AI/ML Engineer**  
 B.S. Communications & Information Engineering @ Zewail City (Class of 2026)
 
-I specialize in developing high-stakes AI solutions, with a strong focus on **Arabic NLP, Speech Recognition, and Statistical Inference**.  
+I specialize in developing high-stakes AI solutions, with a strong focus on **Arabic NLP, Speech Recognition, Statistical Inference, and Data Analysis**.  
 I am passionate about bridging the gap between technical theory and practical, multi-modal systems that solve real-world accessibility and educational challenges.
 
 ---
